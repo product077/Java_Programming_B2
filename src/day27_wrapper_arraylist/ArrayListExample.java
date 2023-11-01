@@ -34,6 +34,7 @@ public class ArrayListExample {
         System.out.println(numbers);
 
 
+
         // how do I ge the total number of the elements in the ArrayList
         System.out.println(numbers.size());
 
