@@ -28,6 +28,7 @@ public class RemoveExample {
         System.out.println( list.get( list.size() - 1 ));
 
 
+
         System.out.println("-----------------------");
         list.remove(0);  // [water, cherry, bread, apple, butter]
         System.out.println(list);
