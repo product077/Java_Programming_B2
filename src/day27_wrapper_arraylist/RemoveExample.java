@@ -49,6 +49,7 @@ public class RemoveExample {
 
         list.add("light");
         list.add("light");
+
         System.out.println(list);
 
         list.remove("light");
