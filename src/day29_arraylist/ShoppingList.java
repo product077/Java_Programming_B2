@@ -29,7 +29,7 @@ public class ShoppingList {
 
     }
 
-    //TODO:  Ask a user what intex to remove if it is in the list range
+    //TODO:  Ask a user what index to remove if it is in the list range
     public static void removeItem (ArrayList <String> list ) {
 
 
@@ -105,3 +105,5 @@ public class ShoppingList {
 
     }
 }
+
+
