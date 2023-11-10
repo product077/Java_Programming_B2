@@ -5,6 +5,7 @@ import java.util.*;
 
 public class ShoppingList {
     public static void main(String[] args) {
+
         ArrayList <String> shoppingList = new ArrayList<>();
 
         // check if shoppingList is empty or has some items.
